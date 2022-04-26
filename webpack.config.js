@@ -21,7 +21,7 @@ Encore
    * and one CSS file (e.g. app.css) if your JavaScript imports CSS.
   */
  // --- --- --- App --- --- ---
- .addEntry('app', './assets/app.js')
+  .addEntry('app', './assets/app.js')
   .addEntry('login', './assets/controllers/app/login/index.js')
   // --- --- END App --- --- ---
 

@@ -2,12 +2,12 @@
 import './styles/app.scss';
 // Js
 import $ from 'jquery';
-require('bootstrap');
+import "bootstrap/dist/js/bootstrap.min.js";
 
 // // start the Stimulus application
-// import './bootstrap';
+import './bootstrap';
 
 // Acciones por defecto
 $(document).ready(function(){
-//   $('[data-toggle="popover"]').popover();
+  // $('[data-toggle="popover"]').popover();
 });
